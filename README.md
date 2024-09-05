@@ -10,9 +10,9 @@ This is a simple Chrome extension designed to replace specific elements on any w
 ## How It Works
 
 Once installed, this extension scans webpages for the following elements:
-- **Images (`<img>`)**: Replaces all images with a predefined text placeholder.
-- **Headings (`<h1>`, `<h2>`)**: Replaces all `<h1>` and `<h2>` tags with custom text.
-- **Paragraphs (`<p>`)**: Replaces all paragraph elements with your selected text.
+- **Images (`<img>`)**: Replaces all images with pictures of f1 cars.
+- **Headings (`<h1>`, `<h2>`)**: Replaces all `<h1>` and `<h2>` tags with "F1".
+- **Paragraphs (`<p>`)**: Replaces all paragraph elements with "F1".
 
 ## Installation
 
